@@ -5,10 +5,7 @@ A new Flutter project.
 ## Getting Started
 
 This project is a starting point for a Flutter application.
-![Capture d'écran de l'application](captures/ecran/i1.png)
-![Capture d'écran de l'application](captures/ecran/i2.png)
-![Capture d'écran de l'application](captures/ecran/i3.png)
-![Capture d'écran de l'application](captures/ecran/i4.png)
+
 
 
 A few resources to get you started if this is your first Flutter project:
